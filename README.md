@@ -1,2 +1,2 @@
 # 4116_41256_DRAM_TESTER
-4116 and 41256 DRAM tester using March-C and other vigourous testing routines with an Iron Maiden theme.
+4116 and 41256 DRAM tester using March-C and other vigorous testing routines with an Iron Maiden theme.
